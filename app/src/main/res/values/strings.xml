@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="splashImg">Splash Image</string>
+    <string name="splash">Develop By Liew Lik Seong</string>
+    <string name="txtTitle">Tic-Tac-Toe</string>
+    <string name="playBtn">Play</string>
+    <string name="menuImg">Menu Image</string>
+    <string name="psTitle">Please Enter Your Name</string>
+    <string name="label1">Player 1</string>
+    <string name="label2">Player 2</string>
+    <string name="submitBtn">Submit Names</string>
+    <string name="nameHint">Enter Your Name Here</string>
+    <string name="resetBtn">Play Again</string>
+    <string name="homeBtn">Home</string>
+    <string name="txtPlayer"> </string>
+</resources>
